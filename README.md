@@ -12,7 +12,7 @@ My name is Brian Chege Gichau. Am a Certified Data Scientist with an experience 
 * Recurrent Neural Networks
 ----
 ## Finding me on the internet 🌎
-[LinkedIn](https://www.linkedin.com/in/brianchege567/) ** [Twitter](https://twitter.com/B_chege567)
+[LinkedIn](https://www.linkedin.com/in/brianchege567/) • [Twitter](https://twitter.com/B_chege567)
 
 <!--
 **BrianChegeGichau/BrianChegeGichau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
