@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-My name is Brian Chege Gichau. Am a Certified Data Scientist with an experience in using data to competently solve unique business problems. I develop tools that enhance intelligent decisions making in organizations boosting revenue and growth. I have an experience in using analytical tools and have an excellent understanding of Mathematical and Probability concepts.
+My name is Brian Chege Gichau. Am a Data Scientist with an experience in using data to competently solve unique business problems. I develop tools that enhance intelligent decision making processes in organizations boosting revenue and growth. I have an experience in using analytical tools and have an excellent understanding of Mathematical and Probability concepts. 
 
 ----
 ## Technologies 
 * Python
+* R
 * Tableau
 * SQL
 * Sklearn
@@ -13,6 +14,7 @@ My name is Brian Chege Gichau. Am a Certified Data Scientist with an experience 
 ----
 ## Finding me on the internet 🌎
 [LinkedIn](https://www.linkedin.com/in/brianchege567/) • [Twitter](https://twitter.com/B_chege567)
+💬 Ask me anything to do with Artificial Intelligence, I'll be glad to answer.
 
 <!--
 **BrianChegeGichau/BrianChegeGichau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
