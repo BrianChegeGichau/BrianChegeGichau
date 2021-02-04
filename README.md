@@ -10,7 +10,6 @@ My name is Brian Chege Gichau. Am a Certified Data Scientist with an experience 
 * Sklearn
 * Neural Networks
 * Recurrent Neural Networks
-----
 <!--
 **BrianChegeGichau/BrianChegeGichau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
