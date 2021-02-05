@@ -13,7 +13,7 @@ My name is Brian Chege Gichau. Am a Data Scientist with an experience in using d
 * Recurrent Neural Networks
 ----
 ## Finding me on the internet 🌎
-[LinkedIn](https://www.linkedin.com/in/brianchege567/) • [Twitter](https://twitter.com/B_chege567) ![](https://komarev.com/ghpvc/?username=your-github-BrianChegeGichau&color=green)
+[LinkedIn](https://www.linkedin.com/in/brianchege567/) • [Twitter](https://twitter.com/B_chege567) 
 
 ----
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianChegeGichau)](https://github.com/BrianChegeGichau/github-readme-stats)
