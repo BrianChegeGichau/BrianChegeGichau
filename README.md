@@ -15,6 +15,9 @@ My name is Brian Chege Gichau. Am a Data Scientist with an experience in using d
 ## Finding me on the internet 🌎
 [LinkedIn](https://www.linkedin.com/in/brianchege567/) • [Twitter](https://twitter.com/B_chege567)
 
+----
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianChegeGichau)](https://github.com/BrianChegeGichau/github-readme-stats)
+
 <!--
 **BrianChegeGichau/BrianChegeGichau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
