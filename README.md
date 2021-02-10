@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Brian Chege Gichau. Am a Data Scientist with an experience in using data to competently solve unique business problems. I develop tools that enhance intelligent decision-making processes in organizations boosting revenue and growth. I have an experience in using analytical tools and have an excellent understanding of Mathematical and Probability concepts. 
+My name is Brian Chege Gichau. Am a Data Scientist with experience in using data to competently solve unique business problems. I develop tools that enhance intelligent decision-making processes in organizations boosting revenue and growth. I have an experience in using analytical tools and have an excellent understanding of Mathematical and Probability concepts. 
 
 ----
 ## Technologies 
